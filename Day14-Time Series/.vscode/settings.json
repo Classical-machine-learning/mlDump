@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/anaconda3/envs/new/bin/python",
+    "python.linting.mypyEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.banditEnabled": true
+}
